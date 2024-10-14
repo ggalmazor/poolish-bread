@@ -1,0 +1,22 @@
+{
+  "name": "poolish-bread",
+  "version": "1.0.0",
+  "description": "Website with a calculator for a poolish brad recipe",
+  "keywords": [],
+  "author": "Guillermo Gutierrez Almazor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggalmazor/poolish-bread.git"
+  },
+  "homepage": "https://ggalmazor.com/poolish-bread",
+  "type": "module",
+  "scripts": {
+    "start": "http-server src"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
